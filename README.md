@@ -1,6 +1,6 @@
 # plant-diseases-detection-
 
-volume_up
+
 
 Introducing your Plant Disease Detection System!
 This innovative system empowers you to identify potential diseases affecting your plants with ease.  Simply upload a clear picture of your plant, and the system will analyze the image to detect signs of illness.
